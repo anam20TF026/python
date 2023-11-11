@@ -1,1 +1,1 @@
-# python
+# python pemesanan makanan sederhana
